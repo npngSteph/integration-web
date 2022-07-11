@@ -1,0 +1,77 @@
+body {
+  margin-left: 30px;
+  font-family: 'Roboto', sans-serif;
+}
+
+header {
+  background-color: white;
+}
+
+main {
+  background-color: white;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+
+h1 {
+  font-size: 50px;
+  color: #393c6c;
+  text-align: center;
+}
+
+.info {
+  font-size: 10px;
+  font-style: italic;
+  text-align: center;
+  margin: 5px;
+}
+
+#b1 {
+  height: 30px;
+  width: 210px;
+  background-color: #e5e5e5;
+  color: white;
+  text-align: center;
+  margin: 18px auto;
+
+  display: block;
+}
+
+#crepe1 {
+  height: 240px;
+  width: 240px;
+  margin: 0;
+}
+#crepe2 {
+  height: 240px;
+  width: 240px;
+}
+#crepe3 {
+  height: 240px;
+  width: 240px;
+}
+
+h2 {
+  font-size: 30px;
+  color: #f3735f;
+  margin-top: 70px;
+  margin-bottom: 20px;
+}
+h3 {
+  font-size: 18px;
+  font-weight: bold;
+  color: #393c6c;
+  margin: 8px auto;
+}
+#etape {
+  line-height: 2.5;
+}
+
+footer {
+  margin: 20px auto;
+  font-size: 10px;
+}
